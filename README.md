@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Franzsii
-- 👀 I’m interested in becoming a full stack developer.
-- 🌱 I’m currently learning Javascript, NodeJS, CSS, HTML at the School of Code.
-- 💞️ I’m looking to collaborate on projects that utilise these and will help further my understanding.
+- 👀 I’m a full stack developer.
 - 📫 How to reach me @ linkedin/in/francesca-croutear-foy-3660b3109
 
 <!---
